@@ -1,6 +1,6 @@
 ## Hi, I’m Sandra 👋
 
-Software developer focused on building clean, practical web applications - mostly backend-driven, with attention to UI/UX when it matters.
+Software developer focused on building clean, practical web applications - mostly backend-driven, with attention to UI/UX when it matters. I enjoy building data-driven systems and solving real business problems through code.
 
 ### 🚀 Tech I work with
 - Backend: .NET, ASP.NET, ABP, PHP (Laravel)
