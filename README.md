@@ -9,14 +9,14 @@ Software developer focused on building clean, practical web applications - mostl
 - Databases: PostgreSQL, MySQL, SQL
 - Tools: Git, GitHub, GitLab, Jira, Azure DevOps
 
-*(also explored: Django, Flutter)*
+**Also built with:** Django (AI tools catalog with search indexing), Flutter (accessibility mobile app), Python (LLM-based SDN simulator), Blazor Server (.NET)
 
-## 📌 Selected work
+### 📌 Selected work
 | Project | What it does | Stack |
 |---|---|---|
 | [project-manager](https://github.com/sandrailievskaa/project-manager) | Team collaboration app with 5-level role/experience permission system, TaskObserver audit trail, Filament admin | Laravel, Vue 3, Inertia, TypeScript |
-| [mk-company-data](https://github.com/sandrailievskaa/mk-company-data) | Scrapes MK company registry, segments data, generates AI outreach offers — accepted at CIIT 2026 | Laravel, Filament, OpenAI API |
-| [TravelSage](https://github.com/sandrailievskaa/TravelSage) | Personalized travel recommendations via SQL views, weather data, and user preferences — published at ICT Innovations 2025 | Laravel, PostgreSQL |
+| [mk-company-data](https://github.com/sandrailievskaa/mk-company-data) | Scrapes MK company registry, segments data, generates AI outreach offers - accepted at CIIT 2026 | Laravel, Filament, OpenAI API |
+| [TravelSage](https://github.com/sandrailievskaa/TravelSage) | Personalized travel recommendations via SQL views, weather data, and user preferences - published at ICT Innovations 2025 | Laravel, PostgreSQL |
 | [hear-see-safe](https://github.com/sandrailievskaa/hear-see-safe) | Accessibility Flutter app for children with visual/hearing impairments, TFLite camera, voice pipeline, 3 languages | Flutter, Dart, TensorFlow Lite |
 
 ### 📫 Get in touch
