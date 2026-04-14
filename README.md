@@ -38,18 +38,3 @@ Currently working on ERP systems, while also building projects in analytics, aut
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/sandra-ilievska/
-
-
-
-Backend-focused full-stack developer building data-driven web applications.
-Currently working on ERP systems at Elikosoft, with published research from ICT Innovations 2025.
-
-**Stack:** .NET · ASP.NET · ABP · Laravel · Vue · TypeScript · PostgreSQL · SQL  
-**Also used:** React · Django · Flutter · Apache Flink
-
-**Selected projects**
-- [TravelSage](https://github.com/sandrailievskaa/TravelSage) — travel planning platform with personalized recommendations; presented at ICT Innovations 2025
-- [mk-company-data](https://github.com/sandrailievskaa/mk-company-data) — automated company scraping, segmentation & AI-generated outreach; accepted at CIIT 2026
-- [project-manager](https://github.com/sandrailievskaa/project-manager) — full-stack PM tool with granular role/experience-based permissions
-
-[LinkedIn](https://www.linkedin.com/in/sandra-ilievska/)
