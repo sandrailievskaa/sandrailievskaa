@@ -1,40 +1,89 @@
-## Hi, I’m Sandra 👋
+# Hi, I’m Sandra 👋
 
-Software Engineer focused on backend systems and data-driven web applications.
+Backend-focused Software Engineer building systems that turn data into usable products.
 
-I build practical, scalable systems using .NET and Laravel, with a strong focus on clean architecture, APIs, and database design. I’m comfortable taking a product from idea to a working, usable system, and I enjoy solving real business problems through code.
+I work mostly on backend-heavy applications where structure, data flow, and system design matter more than UI — things like APIs, automation pipelines, internal tools, and business platforms.
 
-Currently working on ERP systems, while also building projects in analytics, automation, and AI-driven platforms.
+Right now I’m mainly working with ERP-style systems and data-driven applications, while also exploring AI-assisted workflows and integrations.
 
 ---
 
-### 🚀 Tech Stack
+## 🧠 What I work on
+
+- Backend systems & API design
+- Data processing and business workflows
+- Role-based platforms and internal tools
+- Automation and AI-assisted features
+- Database design and optimization
+
+---
+
+## 🧱 Tech Stack
+
 **Backend:** .NET, ASP.NET, ABP, Laravel  
 **Frontend:** Vue, React, TypeScript, Razor  
-**Data:** PostgreSQL, MySQL, SQL  
+**Databases:** PostgreSQL, MySQL  
 **Styling:** Tailwind CSS, Bootstrap  
+
 **Tools:** Git, GitHub, GitLab, Jira, Azure DevOps  
 
-**Also worked with:** Django, Flutter, Python (LLM-based systems), Blazor Server  
+**Also worked with:** Python (AI/LLM integrations), Django, Flutter, Blazor Server  
 
 ---
 
-### 📌 Selected Projects
-| Project | Description | Stack |
-|---|---|---|
-| [mk-company-data](https://github.com/sandrailievskaa/mk-company-data) | Platform for collecting, cleaning and segmenting company data, with AI-generated outreach and ranking — accepted at CIIT 2026 | Laravel, Filament, OpenAI API |
-| [TravelSage](https://github.com/sandrailievskaa/TravelSage) | Travel planning system with personalized recommendations using user preferences, weather data and SQL logic — presented at ICT Innovations 2025 | Laravel, PostgreSQL |
-| [project-manager](https://github.com/sandrailievskaa/project-manager) | Full-stack project management system with role-based permissions, workflows and admin panel | Laravel, Vue 3, Inertia, TypeScript |
-| [hear-see-safe](https://github.com/sandrailievskaa/hear-see-safe) | Accessibility mobile app for children with visual/hearing impairments, using camera and voice features | Flutter, Dart, TensorFlow Lite |
+## ⚙️ Engineering approach
+
+I care about building systems that are:
+
+- structured and maintainable
+- scalable in terms of data and users
+- clear in logic and responsibilities
+- easy to extend without rewriting everything
+
+Some of the things I usually think about:
+- API structure and consistency
+- database indexing & performance
+- role-based access control (RBAC)
+- modular architecture
+- background jobs and async processing
 
 ---
 
-### 🧠 What I focus on
-- Backend architecture and API design  
-- Data-driven systems and database logic  
-- Building clean, maintainable and scalable code  
+## 🚀 Selected Projects
+
+| Project | What it does | Stack |
+|--------|--------------|------|
+| **mk-company-data** | Data platform for collecting, cleaning and ranking company data with AI-assisted outreach. Accepted at CIIT 2026 | Laravel, Filament, OpenAI API |
+| **TravelSage** | Personalized travel planning system using user preferences, weather and structured SQL logic. Presented at ICT Innovations 2025 | Laravel, PostgreSQL |
+| **project-manager** | Full-featured project management system with roles, workflows and admin dashboard | Laravel, Vue 3, Inertia, TypeScript |
+| **hear-see-safe** | Accessibility app for children with visual/hearing impairments using camera + voice features | Flutter, Dart, TensorFlow Lite |
 
 ---
 
-### 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/sandra-ilievska/
+## 🎤 Conferences & Research
+
+My work has been presented in academic and industry settings focused on applied software systems and data-driven applications.
+
+- 🏛️ CIIT 2026  
+  Accepted paper: *mk-company-data*  
+  Focus: data enrichment pipelines and AI-assisted business outreach systems
+
+- 🌍 ICT Innovations 2025  
+  Presented project: *TravelSage*  
+  Focus: personalized recommendation systems using structured data and user behavior
+
+---
+
+## 📌 Current focus
+
+Right now I’m improving:
+- system design skills (scalability & architecture)
+- production-ready backend systems
+- AI integrations in real-world workflows
+- cleaner deployment + DevOps practices
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [sandra-ilievska](https://www.linkedin.com/in/sandra-ilievska/)
