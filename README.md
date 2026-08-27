@@ -13,4 +13,5 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sandra-ilievska/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sandrailievskaa)
 [![Portfolio](https://skillicons.dev/icons?i=html)](https://sandrailievskaa.github.io/portfolio/)
+[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://sandrailievskaa.github.io/portfolio/)
 
