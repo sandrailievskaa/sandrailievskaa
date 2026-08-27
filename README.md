@@ -1,14 +1,16 @@
 # Sandra Ilievska
-👩‍💻 Researcher @ FCSE (Ss. Cyril and Methodius University) · Backend Engineer
+👩‍💻 Full-Stack Engineer — I build the backend and the interface that sits on it, then go do AI research on the side.
 
-[![Skills](https://skillicons.dev/icons?i=dotnet,cs,laravel,php,django,py,vue,react,ts,postgres,mysql,sql-server,git,azure)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=dotnet,cs,laravel,php,django,py,vue,react,ts,flutter,postgres,mysql,sqlite,git,githubactions,azure&perline=16)](https://skillicons.dev)
 
 ## 🔬 Currently
-- Researching AI safety for network automation & AI for cultural heritage — 2 papers presented, 3 under review at CIIT, ICT Innovations, and TELFOR
-- Open to backend / full-stack roles — production experience in .NET and Laravel
+- Backend: .NET, Laravel · Frontend: Vue, React, TypeScript
+- AI research: 2 papers presented, 3 under review — CIIT, ICT Innovations, TELFOR
+- Open to full-stack roles
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-ilievska/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:silievska85@yahoo.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:silievska85@yahoo.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sandra-ilievska/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sandrailievskaa)
 
 🌐 Portfolio: *(coming soon)*
