@@ -1,33 +1,14 @@
-# Hi, I'm Sandra 👋
+# Sandra Ilievska
+👩‍💻 Researcher @ FCSE (Ss. Cyril and Methodius University) · Backend Engineer
 
-Backend-focused Software Engineer building data-driven systems — APIs, automation 
-pipelines, ERP modules, and AI-assisted workflows.
+[![Skills](https://skillicons.dev/icons?i=dotnet,cs,laravel,php,django,py,vue,react,ts,postgres,mysql,sql-server,git,azure)](https://skillicons.dev)
 
-I work at the intersection of system design and applied AI: production backend in 
-.NET and Laravel, active research in AI applications (2 conference presentations, 
-2 papers under review).
-
----
-
-## 🧱 Stack
-
-**Backend:** .NET / ASP.NET / ABP · Laravel / PHP · Django  
-**Frontend:** Vue.js · React · TypeScript · Razor  
-**Databases:** PostgreSQL · MySQL · SQL Server  
-**AI/ML:** OpenAI API · TensorFlow Lite · CycleGAN · LangGraph · n8n · Langflow  
-**Tools:** Git · GitHub Actions · Azure DevOps · Jira  
-
----
-
-## 🎤 Research & Conferences
-
-**CIIT 2026** — Automated Company Ranking and Segmentation via Open Data Registries  
-**ICT Innovations 2025** — TravelSage: Database-Driven Travel Recommendation System  
-**Under review** — AI and Digitalization of Balkan Folk Embroidery Patterns  
-**Under review** — LLM Agent Orchestration: Comparative Study Across Platforms (n8n · Langflow · LangGraph)
-
----
+## 🔬 Currently
+- Researching AI safety for network automation & AI for cultural heritage — 2 papers presented, 3 under review at CIIT, ICT Innovations, and TELFOR
+- Open to backend / full-stack roles — production experience in .NET and Laravel
 
 ## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-ilievska/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:silievska85@yahoo.com)
 
-[LinkedIn](https://linkedin.com/in/sandra-ilievska)
+🌐 Portfolio: *(coming soon)*
