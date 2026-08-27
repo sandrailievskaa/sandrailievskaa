@@ -13,6 +13,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sandra-ilievska/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sandrailievskaa)
 
-🌐 Portfolio: *([coming soon](https://sandrailievskaa.github.io/portfolio/)*
+🌐 Portfolio: *(https://sandrailievskaa.github.io/portfolio/)*
 
 
