@@ -19,18 +19,6 @@ I work at the intersection of system design and applied AI: production backend i
 
 ---
 
-## 🚀 Selected Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [mk-company-data](https://github.com/sandrailievskaa/mk-company-data) | Data platform for scraping, ranking and AI-assisted outreach on public company registries. *Presented at CIIT 2026* | Laravel, OpenAI API, Filament |
-| [TravelSage](https://github.com/sandrailievskaa/TravelSage) | Personalized travel recommendation system using structured SQL logic and user preferences. *Presented at ICT Innovations 2025* | Laravel, PostgreSQL |
-| [project-manager](https://github.com/sandrailievskaa/project-manager) | Full-stack project management with role-based workflows and admin dashboard | Laravel, Vue 3, Inertia.js, TypeScript |
-| [hear-see-safe](https://github.com/sandrailievskaa/hear-see-safe) | Multilingual accessibility app for children with visual/hearing impairments | Flutter, Dart, TensorFlow Lite |
-| [LLM-based-intent-based-networking](https://github.com/sandrailievskaa/LLM-based-intent-based-networking) | Natural-language to SDN flow rules simulator; regex parser + optional GPT-4o-mini backend | Python, NetworkX, OpenAI API |
-
----
-
 ## 🎤 Research & Conferences
 
 **CIIT 2026** — Automated Company Ranking and Segmentation via Open Data Registries  
