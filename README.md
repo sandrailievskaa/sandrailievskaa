@@ -12,6 +12,5 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:silievska85@yahoo.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sandra-ilievska/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sandrailievskaa)
-[![Portfolio](https://skillicons.dev/icons?i=web)](https://sandrailievskaa.github.io/portfolio/)
-
+[![Portfolio](https://skillicons.dev/icons?i=html)](https://sandrailievskaa.github.io/portfolio/)
 
